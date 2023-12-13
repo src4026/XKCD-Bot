@@ -1,8 +1,10 @@
 <p align="center">
-    <img src="icon.png" height="100"/>
+  <img src="icon.png" height="100"/>
 </p>
 
-<center><h1>XKCD Bot</h1></center>
+<center>
+  <h1>XKCD Bot</h1>
+</center>
 
 > *❗ This repository is not planned to be further developed and will stay as an **inactive project**.* 
 
