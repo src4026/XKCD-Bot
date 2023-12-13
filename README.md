@@ -40,4 +40,4 @@ I originally began this project but went into maintenance mode shortly after. Wh
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
