@@ -1,4 +1,8 @@
-<center>XKCD Bot</center>
+<p align="center">
+    <img src="icon.png" />
+</p>
+
+<center><h1>XKCD Bot</h1></center>
 
 > *❗ This repository is not planned to be further developed and will stay as an **inactive project**.* 
 
