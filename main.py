@@ -97,7 +97,15 @@ Self explanatory: *the saviour of all commands*.
 Fetches the xkcd comic of the day.
 
 **iii. `~random`**
-Fetches a random xkcd comic.""")
+Fetches a random xkcd comic.
+
+**iv. `start_daily`**
+Enables the daily XKCD comic task which sends a new XKCD comic when a new one is uploaded on the XKCD website.
+
+**v. `end_daily`**
+Disables the daily XKCD comic task.
+
+""")
   await ctx.send(embed=helpEmbed)
 
 
