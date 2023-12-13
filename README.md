@@ -6,7 +6,7 @@
   <br>
 </h1>
 <h4 align="center">
-  A discord bot made using python for a variety of fun <a> href="https://xkcd.com/">XKCD</a> related commands on your server.
+  A discord bot made using python for a variety of fun <a href="https://xkcd.com/">XKCD</a> related commands on your server.
 </h4>
 
 > *❗ This repository is not planned to be further developed and will stay as an **inactive project**.* 
