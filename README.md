@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="icon.png" height="500"/>
+    <img src="icon.png" height="100"/>
 </p>
 
 <center><h1>XKCD Bot</h1></center>
