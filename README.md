@@ -16,7 +16,7 @@
 ---
 
 ## Usage
-This repository is just a connection between the [the Replit repository on which the bot is hosted (my personal use)](https://replit.com/@src4026/XKCD-Bot) and not meant for the best flexibility and documentation for the people wanting to use this. If you want to try it for yourself, do so **AT YOUR OWN RISK**.
+This repository is just a connection between [the Replit repository on which the bot is hosted (my personal use)](https://replit.com/@src4026/XKCD-Bot) and not meant for the best flexibility and documentation for the people wanting to use this. If you want to try it for yourself, do so **AT YOUR OWN RISK**.
 
 ## Credits
 
