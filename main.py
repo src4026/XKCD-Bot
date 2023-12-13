@@ -106,6 +106,7 @@ Enables the daily XKCD comic task which sends a new XKCD comic when a new one is
 Disables the daily XKCD comic task.
 
 """)
+  hlpEmbed.set_footer(text="Source code: https://github.com/src4026/XKCD-Bot")
   await ctx.send(embed=helpEmbed)
 
 
