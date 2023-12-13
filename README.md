@@ -1,8 +1,10 @@
-# XKCD Bot
+<center>XKCD Bot</center>
+
+> *❗ This repository is not planned to be further developed and will stay as an **inactive project**.* 
 
 # About
 
-A discord bot made using python for a variety of fun xkcd related commands.
+A discord bot made using python for a variety of fun [XKCD](https://xkcd.com/) related commands.
 
 ## Credits
 
