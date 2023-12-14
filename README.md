@@ -6,7 +6,7 @@
   <br>
 </h1>
 <h4 align="center">
-  A discord bot made using python for a variety of fun <a href="https://xkcd.com/">XKCD</a> related commands for your <a href="https://discord.com/">Discord</a> server.
+  A <a href="https://discord.com/">discord</a> bot made using Python for a variety of fun <a href="https://xkcd.com/">XKCD</a> related commands.
 </h4>
 
 ---
