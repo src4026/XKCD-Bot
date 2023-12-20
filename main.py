@@ -52,7 +52,7 @@ async def daily():
 
   if last_title != latest_title:
 
-    #time.sleep(2)
+    time.sleep(5)
 
     with open('comic.txt', 'w') as f:
       f.write(latest_title)
